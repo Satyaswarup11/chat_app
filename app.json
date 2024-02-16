@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "extra": {
+      "eas": {
+        "projectId": "c9e8b50b-fbe9-4a6e-af95-fad4a01b5155"
+      }
+    },
+    "android": {
+      "package": "com.folkblue.chatapp"
+    }
+  }
+}
