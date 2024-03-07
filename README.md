@@ -3,13 +3,13 @@ The app includes authentication functionality, a group chat feature, and a simpl
 
 ## Getting Started
 ### Prerequisites
-- [Node.js] (https://nodejs.org/docs/latest/api/)
+- [Node.js](https://nodejs.org/docs/latest/api/)
 - [Expo CLI](https://docs.expo.dev/)
 - Firebase project with authentication and Firestore enabled
 ### Installation
 1. Clone the repository:
     ```
-    git clone [repository_url]
+    git clone https://github.com/Satyaswarup11/chat_app.git
     ```
 2. Navigate to the project directory:
     ```
